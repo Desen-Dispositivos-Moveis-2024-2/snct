@@ -26,7 +26,7 @@ npm install -g expo-cli
 Abra o terminal e crie o projeto usando **expo**:
 
 ```bash
-expo init nome-do-projeto
+npx create-expo-app@latest meu-projeto --template blank
 ```
 
 Ele dará várias opções de como deseja iniciar o seu projeto, nesse momento escolha a opção **blank**
